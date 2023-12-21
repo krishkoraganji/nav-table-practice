@@ -1,0 +1,19 @@
+.signIn{
+    animation: dropIn 2s ease forwards;
+     display: flex;
+    justify-content: space-around;
+    
+
+}
+@keyframes dropIn {
+    from { transform: translateY(-500px);}
+    to{transform: translateY(200px);}
+}
+h1{
+    animation-delay: 200ms;
+
+}
+p{
+    animation-delay: 400ms;
+   
+}

@@ -1,0 +1,24 @@
+tr,th,td{
+    border: 2px double black;
+    border-collapse: collapse;
+    background-color: aqua;
+    font-size: 10px;
+    text-align: center;
+    text-overflow: clip;
+    
+}
+table{
+    width: 100%;
+}
+th{
+    background-color: blue;
+}
+
+.title{
+    padding: 5px;
+    font-size: 12px;
+  flex-grow: 1;
+    background-color: brown;
+   
+    
+}
