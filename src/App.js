@@ -1,26 +1,22 @@
+// src/App.js
 import React from 'react';
-import './App.css';
-import { BrowserRouter,Routes,Route } from 'react-router-dom';
-import Header from './components/Header/index.js';
-import SignIn from './components/login';
-import Signup from './components/signUp';
-import Home from './components/home';
-import Album from './components/componentDetails/index.js';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Provider } from 'react-redux';
+import store from './redux/store';
+import ProductListPage from './components/productList';
+import ProductDetailPage from './components/productDetailsPage';
 
 function App() {
-  return (
-    <BrowserRouter>
-            <Header/>
-            
-          <Routes>
-            <Route path='/' element={<Home/>}/>
-            <Route path='/login' element={<SignIn/>}/>
-            <Route path='/signup' element={<Signup/>} />
-           <Route path='/:id' element={<Album/>} />
-          </Routes>
-    </BrowserRouter>
-    
-  );
+    return (
+        <Provider store={store}>
+            <Router>
+                <Routes>
+                    <Route exact path="/" element={<ProductListPage />} />
+                    <Route exact path="/product/:id" element={<ProductDetailPage />} />
+                </Routes>
+            </Router>
+        </Provider>
+    );
 }
 
 export default App;

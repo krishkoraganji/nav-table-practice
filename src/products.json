@@ -1,0 +1,102 @@
+{
+    "productsList": [
+        {
+            "id": 1,
+            "name": "Wireless Charging Pad",
+            "description": "Charge your compatible devices quickly and conveniently with this wireless charging pad. Simply place your device on the pad to start charging.",
+            "price": 19.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 2,
+            "name": "Smart LED Light Bulb",
+            "description": "Upgrade your home lighting with these smart LED light bulbs. Control brightness, color, and scheduling from your smartphone for customizable ambiance.",
+            "price": 12.49,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 3,
+            "name": "Fitness Tracker Watch",
+            "description": "Stay on top of your health and fitness goals with this sleek fitness tracker watch. Monitor your activity, heart rate, and sleep patterns for a healthier lifestyle.",
+            "price": 34.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 4,
+            "name": "Portable Bluetooth Speaker",
+            "description": "Take your music anywhere with this portable Bluetooth speaker. With crisp sound and long battery life, it's perfect for outdoor adventures and indoor gatherings.",
+            "price": 29.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 5,
+            "name": "Smart Thermostat",
+            "description": "Upgrade your home's heating and cooling system with this smart thermostat. Control temperature settings remotely and save energy with intelligent scheduling.",
+            "price": 99.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 6,
+            "name": "Digital Air Fryer",
+            "description": "Enjoy healthier cooking with this digital air fryer. Fry, roast, bake, and grill your favorite foods with little to no oil for delicious results.",
+            "price": 59.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 7,
+            "name": "Robot Vacuum Cleaner",
+            "description": "Keep your floors clean effortlessly with this robot vacuum cleaner. Featuring intelligent navigation and powerful suction, it's perfect for busy households.",
+            "price": 199.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 8,
+            "name": "Wireless Earbuds",
+            "description": "Cut the cord and enjoy wireless freedom with these earbuds. With noise cancellation and long battery life, they're perfect for music lovers on the go.",
+            "price": 79.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 9,
+            "name": "Electric Toothbrush",
+            "description": "Upgrade your oral hygiene routine with this electric toothbrush. With multiple brushing modes and a built-in timer, it's perfect for a thorough clean.",
+            "price": 39.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 10,
+            "name": "Smart Doorbell Camera",
+            "description": "Enhance your home security with this smart doorbell camera. Get real-time alerts and two-way audio communication for peace of mind wherever you are.",
+            "price": 149.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 11,
+            "name": "Digital Kitchen Scale",
+            "description": "Make cooking and baking a breeze with this digital kitchen scale. Accurately measure ingredients for perfect results every time.",
+            "price": 24.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 12,
+            "name": "Wireless Gaming Mouse",
+            "description": "Gain a competitive edge with this wireless gaming mouse. With customizable buttons and high-precision tracking, it's perfect for gamers of all skill levels.",
+            "price": 49.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 13,
+            "name": "Portable Power Bank",
+            "description": "Stay powered up on the go with this portable power bank. With fast charging technology and multiple ports, it's perfect for charging your devices anywhere.",
+            "price": 29.99,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 14,
+            "name": "Indoor Security Camera",
+            "description": "Keep an eye on your home with this indoor security camera. Featuring motion detection and night vision, it's perfect for monitoring your property day and night.",
+            "price": 79.99,
+            "image": "https://via.placeholder.com/150"
+        }
+    ]
+}
